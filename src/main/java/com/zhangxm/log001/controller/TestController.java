@@ -17,6 +17,7 @@ public class TestController {
         for (int i = 0; i < 10; i++) {
             System.out.println("计数中 " + i);
         }
+        System.out.println("版本 3");
         return "0k";
     }
 }
