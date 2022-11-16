@@ -19,6 +19,7 @@ public class TestController {
         }
         System.out.println("版本 3");
         System.out.println("版本 4");
+        System.out.println("master");
         return "0k";
     }
 }
